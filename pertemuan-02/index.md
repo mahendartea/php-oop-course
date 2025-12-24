@@ -1,6 +1,6 @@
-# Pertemuan 2: Properti dan Method dalam OOP
+# 🔧 Pertemuan 2: Properti dan Method dalam OOP
 
-## Tujuan Pembelajaran
+## 📚 Tujuan Pembelajaran
 Setelah mengikuti pertemuan ini, mahasiswa diharapkan dapat:
 1. Memahami konsep properti dan method secara mendalam
 2. Membedakan jenis-jenis properti (static vs instance)

@@ -1,6 +1,6 @@
-# Pertemuan 3: Constructor dan Destructor
+# 🏗️ Pertemuan 3: Constructor dan Destructor
 
-## Tujuan Pembelajaran
+## 📚 Tujuan Pembelajaran
 Setelah mengikuti pertemuan ini, mahasiswa diharapkan dapat:
 1. Memahami konsep constructor dan destructor dalam OOP
 2. Mengimplementasikan constructor dengan berbagai parameter

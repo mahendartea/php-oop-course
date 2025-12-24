@@ -1,6 +1,6 @@
-# Pertemuan 1: Pengenalan Object-Oriented Programming (OOP) di PHP
+# 🎯 Pertemuan 1: Pengenalan Object-Oriented Programming (OOP) di PHP
 
-## Tujuan Pembelajaran
+## 📚 Tujuan Pembelajaran
 Setelah mengikuti pertemuan ini, mahasiswa diharapkan dapat:
 1. Memahami konsep dasar Object-Oriented Programming (OOP)
 2. Membedakan antara paradigma prosedural dan object-oriented
@@ -8,7 +8,7 @@ Setelah mengikuti pertemuan ini, mahasiswa diharapkan dapat:
 4. Memahami konsep properti dan method dalam class
 5. Menggunakan keyword `$this` untuk mengakses properti dan method
 
-## Konsep Dasar OOP
+## 💡 Konsep Dasar OOP
 
 ### Apa itu Object-Oriented Programming?
 Object-Oriented Programming (OOP) adalah paradigma pemrograman yang mengorganisir kode dalam bentuk objek-objek yang berinteraksi satu sama lain. Berbeda dengan pemrograman prosedural yang berfokus pada fungsi, OOP berfokus pada objek yang memiliki data (properti) dan perilaku (method).
@@ -27,7 +27,7 @@ Object-Oriented Programming (OOP) adalah paradigma pemrograman yang mengorganisi
 - Fokus pada interaksi antar objek
 - Cocok untuk aplikasi yang kompleks dan besar
 
-### Keuntungan Menggunakan OOP
+### ✨ Keuntungan Menggunakan OOP
 
 1. **Modularitas (Modularity)**
    - Kode lebih terorganisir dan mudah dikelola
@@ -49,7 +49,7 @@ Object-Oriented Programming (OOP) adalah paradigma pemrograman yang mengorganisi
    - Data dan method dapat disembunyikan dari akses eksternal
    - Meningkatkan keamanan kode
 
-## Class dan Object
+## 🏗️ Class dan Object
 
 ### Class
 - **Definisi:** Blueprint atau template untuk membuat objek
@@ -80,7 +80,7 @@ class NamaClass {
 $namaObject = new NamaClass();
 ```
 
-## Properti dan Method
+## 🔧 Properti dan Method
 
 ### Properti (Properties)
 - Variabel yang didefinisikan dalam class
@@ -97,16 +97,16 @@ $namaObject = new NamaClass();
 - Menunjuk pada instance object saat ini
 - Hanya dapat digunakan di dalam method class
 
-## Contoh Implementasi
+## 💻 Contoh Implementasi
 Lihat file `example.php` untuk berbagai contoh implementasi class dan object di PHP.
 
-## Latihan
+## 📝 Latihan
 1. Buat class `Mahasiswa` dengan properti nama, nim, dan jurusan
 2. Tambahkan method untuk menampilkan informasi mahasiswa
 3. Buat beberapa object mahasiswa dengan data yang berbeda
 4. Panggil method untuk menampilkan informasi setiap mahasiswa
 
-## Tugas Rumah
+## 🏠 Tugas Rumah
 Buat class `BukuPerpustakaan` dengan:
 - Properti: judul, pengarang, tahunTerbit, statusPinjam
 - Method: pinjamBuku(), kembalikanBuku(), tampilkanInfo()
