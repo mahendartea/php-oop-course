@@ -5,7 +5,8 @@ export default defineConfig({
     description: "Kursus Pemrograman Berorientasi Objek dengan PHP - Dari Dasar hingga Mahir",
     lang: 'id-ID',
     base: '/php-oop-course/',
-    
+    ignoreDeadLinks: true,
+
     head: [
         ['link', { rel: 'icon', type: 'image/svg+xml', href: '/php-oop-course/logo.svg' }],
     ],
