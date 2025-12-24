@@ -88,6 +88,76 @@ Ujian Akhir Semester dengan project-based assessment.
 
 ---
 
+## 🛠️ Persiapan Belajar
+
+### 💻 Tools yang Dibutuhkan
+
+Sebelum memulai kursus, pastikan Anda sudah menginstall:
+
+::: details **Local Development Server**
+Pilih salah satu:
+- **XAMPP** (Rekomendasi untuk pemula) - Include Apache, MySQL, PHP
+- **WAMP** (Windows only)
+- **MAMP** (macOS/Windows)
+- **Laravel Valet** (macOS - Advanced)
+:::
+
+::: details **Code Editor**
+- **Visual Studio Code** (Highly Recommended)
+  - Extensions: PHP Intelephense, PHP Debug, PHP DocBlocker
+- Alternative: PHPStorm, Sublime Text, Atom
+:::
+
+::: details **Additional Tools**
+- **PHP 8.0+** dengan extensions: mbstring, json, pdo, openssl
+- **MySQL/MariaDB** untuk database
+- **Git** untuk version control
+- **Composer** untuk dependency management (optional)
+:::
+
+### 📋 Prerequisites
+
+**Wajib:**
+- ✅ Pemahaman basic PHP (variables, functions, arrays, control structures)
+- ✅ Pengalaman dengan HTML/CSS dasar
+- ✅ Familiar dengan database concepts (MySQL)
+
+**Recommended:**
+- 💡 Pengalaman dengan web development
+- 💡 Basic understanding of software design
+- 💡 Familiar dengan command line operations
+
+---
+
+## 🎯 Apa yang Akan Anda Kuasai?
+
+Setelah menyelesaikan course ini, Anda akan mampu:
+
+### 1. 🏗️ Fundamental Mastery
+- Menguasai semua konsep dasar OOP (Class, Object, Inheritance, Encapsulation, Polymorphism)
+- Menulis code PHP yang clean, maintainable, dan scalable
+- Memahami perbedaan paradigma procedural vs OOP
+
+### 2. 🚀 Advanced Implementation
+- Menggunakan design patterns untuk solving complex problems
+- Menerapkan SOLID principles dalam development
+- Membuat aplikasi dengan proper error handling
+- Menggunakan traits, namespaces, dan autoloading
+
+### 3. 💼 Professional Development
+- Mengorganisir project dengan namespace dan autoloading
+- Menggunakan modern PHP features dan best practices
+- Membuat aplikasi full-stack dengan OOP architecture
+- Melakukan code review dan refactoring
+
+### 4. 🎨 Real-world Application
+- Membangun aplikasi CRUD yang production-ready
+- Menerapkan semua konsep OOP dalam project nyata
+- Implementasi MVC architecture
+- Database operations dengan PDO dan prepared statements
+
+---
+
 <center>
 
 ### Siap Menjadi PHP OOP Developer?

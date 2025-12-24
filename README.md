@@ -1,22 +1,22 @@
-# Kursus Pemrograman Berorientasi Objek (OOP) dengan PHP
+# 🎓 Kursus Pemrograman Berorientasi Objek (OOP) dengan PHP
 
 Selamat datang di kursus Pemrograman Berorientasi Objek (OOP) dengan PHP!
 
-## Deskripsi Kursus
+## 📖 Deskripsi Kursus
 
 Kursus ini dirancang untuk memberikan pemahaman yang kuat tentang konsep-konsep dasar dan lanjutan dari Object-Oriented Programming (OOP) menggunakan bahasa pemrograman PHP. Peserta akan belajar bagaimana merancang, membangun, dan mengelola aplikasi PHP yang scalable, modular, dan mudah dipelihara dengan menerapkan prinsip-prinsip OOP.
 
 Kursus ini terdiri dari 16 pertemuan, termasuk Ujian Tengah Semester (UTS) pada pertemuan ke-8 dan Ujian Akhir Semester (UAS) pada pertemuan ke-16.
 
-## Persiapan Sebelum Memulai
+## 🚀 Persiapan Sebelum Memulai
 
-### Persyaratan Sistem
+### 💻 Persyaratan Sistem
 - **Sistem Operasi:** Windows 10/11, macOS 10.15+, atau Linux Ubuntu 18.04+
 - **RAM:** Minimum 4GB (Rekomendasi 8GB)
 - **Storage:** Minimum 5GB ruang kosong
 - **Koneksi Internet:** Untuk download tools dan resources
 
-### Tools yang Harus Diinstal
+### 🛠️ Tools yang Harus Diinstal
 
 #### 1. Local Development Server
 Pilih salah satu dari opsi berikut:
@@ -81,7 +81,7 @@ Pilih salah satu dari opsi berikut:
 - Composer: https://getcomposer.org/
 - Node.js & NPM: https://nodejs.org/
 
-### Setup Langkah demi Langkah
+### 📝 Setup Langkah demi Langkah
 
 #### Langkah 1: Install XAMPP
 1. Download XAMPP dari website resmi
@@ -133,7 +133,7 @@ cd C:\xampp\htdocs\
 git clone https://github.com/mahendartea/php-oop-course.git
 ```
 
-### Struktur Folder Course
+### 📁 Struktur Folder Course
 ```
 php-oop-course/
 ├── README.md
@@ -154,7 +154,7 @@ php-oop-course/
     └── crud-app/
 ```
 
-### Troubleshooting Common Issues
+### 🔧 Troubleshooting Common Issues
 
 #### Apache tidak bisa start
 - Port 80 sudah digunakan aplikasi lain (Skype, IIS)
@@ -175,18 +175,18 @@ sudo chmod -R 755 /path/to/htdocs
 sudo chown -R $USER:$USER /path/to/htdocs
 ```
 
-### Resources Tambahan
+### 📚 Resources Tambahan
 - **PHP Manual:** https://www.php.net/manual/
 - **W3Schools PHP OOP:** https://www.w3schools.com/php/php_oop_what_is.php
 - **PHP The Right Way:** https://phptherightway.com/
 - **Laracasts PHP OOP:** https://laracasts.com/series/object-oriented-principles-in-php
 
-### Support & Bantuan
+### 💬 Support & Bantuan
 - Buat issue di GitHub repository
 - Join Discord/Slack community (jika ada)
 - Email instructor untuk bantuan lebih lanjut
 
-## Silabus Kursus
+## 📋 Silabus Kursus
 
 ### 🎯 Learning Path & Objectives
 
@@ -195,34 +195,34 @@ Kursus ini dibagi menjadi 4 modul utama dengan progression yang sistematis:
 #### 📚 **Modul 1: Fondasi OOP (Pertemuan 1-4)**
 Membangun pemahaman dasar tentang konsep Object-Oriented Programming
 
-*   **Pertemuan 01:** [Pengenalan OOP, Class, dan Object](./pertemuan-01/)
+*   **Pertemuan 01:** 🎯 [Pengenalan OOP, Class, dan Object](./pertemuan-01/)
     - *Objektif:* Memahami paradigma OOP, membuat class pertama, dan instantiasi object
     - *Output:* Mampu membuat class sederhana dengan property dan method dasar
 
-*   **Pertemuan 02:** [Properti dan Method](./pertemuan-02/)
+*   **Pertemuan 02:** 🔧 [Properti dan Method](./pertemuan-02/)
     - *Objektif:* Menguasai property dan method, parameter, return value
     - *Output:* Membuat class dengan method yang kompleks dan property yang terstruktur
 
-*   **Pertemuan 03:** [Constructor dan Destructor](./pertemuan-03/)
+*   **Pertemuan 03:** 🏗️ [Constructor dan Destructor](./pertemuan-03/)
     - *Objektif:* Memahami lifecycle object, initialization, dan cleanup
     - *Output:* Implementasi constructor untuk setup object dan destructor untuk cleanup
 
-*   **Pertemuan 04:** [Inheritance (Pewarisan)](./pertemuan-04/)
+*   **Pertemuan 04:** 🧬 [Inheritance (Pewarisan)](./pertemuan-04/)
     - *Objektif:* Menguasai konsep pewarisan, parent-child relationship
     - *Output:* Membuat hierarchy class dengan inheritance yang efektif
 
 #### 🔒 **Modul 2: Encapsulation & Abstraction (Pertemuan 5-7)**
 Menguasai prinsip encapsulation dan abstraction untuk code yang robust
 
-*   **Pertemuan 05:** [Visibility (Public, Private, Protected)](./pertemuan-05/)
+*   **Pertemuan 05:** 🔒 [Visibility (Public, Private, Protected)](./pertemuan-05/)
     - *Objektif:* Memahami access modifier, data hiding, encapsulation
     - *Output:* Implementasi proper encapsulation dengan getter/setter
 
-*   **Pertemuan 06:** [Abstract Class dan Method](./pertemuan-06/)
+*   **Pertemuan 06:** 🎨 [Abstract Class dan Method](./pertemuan-06/)
     - *Objektif:* Menguasai abstraction, template method pattern
     - *Output:* Membuat abstract class sebagai blueprint untuk inheritance
 
-*   **Pertemuan 07:** [Interface](./pertemuan-07/)
+*   **Pertemuan 07:** 🔌 [Interface](./pertemuan-07/)
     - *Objektif:* Memahami contract programming, multiple inheritance alternative
     - *Output:* Implementasi interface untuk loose coupling
 
@@ -234,34 +234,34 @@ Menguasai prinsip encapsulation dan abstraction untuk code yang robust
 #### 🚀 **Modul 3: Advanced OOP Features (Pertemuan 9-11)**
 Menguasai fitur-fitur advanced untuk aplikasi yang scalable
 
-*   **Pertemuan 09:** [Static Properties dan Methods](./pertemuan-09/)
+*   **Pertemuan 09:** ⚡ [Static Properties dan Methods](./pertemuan-09/)
     - *Objektif:* Memahami static context, utility methods, shared data
     - *Output:* Implementasi static untuk helper class dan shared resources
 
-*   **Pertemuan 10:** [Traits](./pertemuan-10/)
+*   **Pertemuan 10:** 🧩 [Traits](./pertemuan-10/)
     - *Objektif:* Menguasai code reuse horizontal, mixin pattern
     - *Output:* Membuat trait untuk shared functionality across classes
 
-*   **Pertemuan 11:** [Namespaces dan Autoloading](./pertemuan-11/)
+*   **Pertemuan 11:** 📦 [Namespaces dan Autoloading](./pertemuan-11/)
     - *Objektif:* Organisasi code, menghindari name collision, lazy loading
     - *Output:* Struktur project dengan namespace dan autoloader
 
 #### 🏗️ **Modul 4: Design Patterns & Best Practices (Pertemuan 12-15)**
 Implementasi design patterns dan best practices untuk aplikasi real-world
 
-*   **Pertemuan 12:** [Error Handling dan Exception](./pertemuan-12/)
+*   **Pertemuan 12:** ⚠️ [Error Handling dan Exception](./pertemuan-12/)
     - *Objektif:* Menguasai exception handling, custom exception, debugging
     - *Output:* Robust error handling system untuk aplikasi production
 
-*   **Pertemuan 13:** [Prinsip SOLID](./pertemuan-13/)
+*   **Pertemuan 13:** 🏛️ [Prinsip SOLID](./pertemuan-13/)
     - *Objektif:* Memahami 5 prinsip SOLID untuk clean architecture
     - *Output:* Refactoring code untuk compliance dengan SOLID principles
 
-*   **Pertemuan 14:** [Design Patterns (Creational & Structural)](./pertemuan-14/)
+*   **Pertemuan 14:** 🎯 [Design Patterns (Creational & Structural)](./pertemuan-14/)
     - *Objektif:* Implementasi Singleton, Factory, Observer, Decorator patterns
     - *Output:* Aplikasi design patterns untuk solving common problems
 
-*   **Pertemuan 15:** [Studi Kasus: Aplikasi CRUD dengan OOP](./pertemuan-15/)
+*   **Pertemuan 15:** 💼 [Studi Kasus: Aplikasi CRUD dengan OOP](./pertemuan-15/)
     - *Objektif:* Integration semua konsep dalam aplikasi real-world
     - *Output:* Full-stack CRUD application dengan proper OOP architecture
 
