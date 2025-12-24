@@ -1,6 +1,6 @@
-# Pertemuan 7: Interface
+# 🔌 Pertemuan 7: Interface
 
-## Tujuan Pembelajaran
+## 📚 Tujuan Pembelajaran
 Setelah mengikuti pertemuan ini, mahasiswa diharapkan dapat:
 1. Memahami konsep interface dalam OOP
 2. Membedakan interface dengan abstract class

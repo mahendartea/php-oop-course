@@ -1,6 +1,6 @@
-# Pertemuan 10: Traits
+# 🧩 Pertemuan 10: Traits
 
-## Tujuan Pembelajaran
+## 📚 Tujuan Pembelajaran
 Setelah mengikuti pertemuan ini, mahasiswa diharapkan dapat:
 1. Memahami konsep Traits dalam PHP
 2. Menggunakan keyword `trait` dan `use` dengan benar

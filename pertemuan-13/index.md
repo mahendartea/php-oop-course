@@ -1,6 +1,6 @@
-# Pertemuan 13: Prinsip SOLID
+# 🏛️ Pertemuan 13: Prinsip SOLID
 
-## Tujuan Pembelajaran
+## 📚 Tujuan Pembelajaran
 Setelah mengikuti pertemuan ini, mahasiswa diharapkan dapat:
 1. Memahami 5 prinsip SOLID dalam Object-Oriented Design
 2. Mengidentifikasi violation dari prinsip SOLID dalam code

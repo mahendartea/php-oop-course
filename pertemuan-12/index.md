@@ -1,6 +1,6 @@
-# Pertemuan 12: Error Handling dan Exception
+# ⚠️ Pertemuan 12: Error Handling dan Exception
 
-## Tujuan Pembelajaran
+## 📚 Tujuan Pembelajaran
 Setelah mengikuti pertemuan ini, mahasiswa diharapkan dapat:
 1. Memahami konsep error handling dan exception dalam PHP OOP
 2. Membuat dan menggunakan custom exception classes

@@ -1,6 +1,6 @@
-# Pertemuan 5: Visibility (Public, Private, Protected)
+# 🔒 Pertemuan 5: Visibility (Public, Private, Protected)
 
-## Tujuan Pembelajaran
+## 📚 Tujuan Pembelajaran
 Setelah mengikuti pertemuan ini, mahasiswa diharapkan dapat:
 1. Memahami konsep visibility dalam OOP
 2. Membedakan antara public, private, dan protected

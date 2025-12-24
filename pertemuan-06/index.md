@@ -1,6 +1,6 @@
-# Pertemuan 6: Abstract Class dan Method
+# 🎨 Pertemuan 6: Abstract Class dan Method
 
-## Tujuan Pembelajaran
+## 📚 Tujuan Pembelajaran
 Setelah mengikuti pertemuan ini, mahasiswa diharapkan dapat:
 1. Memahami konsep abstract class dan abstract method
 2. Membedakan abstract class dengan regular class dan interface

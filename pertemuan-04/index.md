@@ -1,6 +1,6 @@
-# Pertemuan 4: Inheritance (Pewarisan)
+# 🧬 Pertemuan 4: Inheritance (Pewarisan)
 
-## Tujuan Pembelajaran
+## 📚 Tujuan Pembelajaran
 Setelah mengikuti pertemuan ini, mahasiswa diharapkan dapat:
 1. Memahami konsep inheritance dalam OOP
 2. Mengimplementasikan inheritance dengan keyword `extends`

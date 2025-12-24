@@ -1,6 +1,6 @@
-# Pertemuan 9: Static Properties dan Methods
+# ⚡ Pertemuan 9: Static Properties dan Methods
 
-## Tujuan Pembelajaran
+## 📚 Tujuan Pembelajaran
 Setelah mengikuti pertemuan ini, mahasiswa diharapkan dapat:
 1. Memahami konsep static properties dan methods dalam OOP
 2. Membedakan static members dengan instance members
