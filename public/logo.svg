@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="45" fill="#8892BF" opacity="0.9"/>
+  
+  <!-- PHP text -->
+  <text x="50" y="60" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle">
+    PHP
+  </text>
+  
+  <!-- OOP badge -->
+  <rect x="20" y="70" width="60" height="18" rx="9" fill="#4F5B93"/>
+  <text x="50" y="82" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+    OOP
+  </text>
+</svg>
